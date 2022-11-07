@@ -1,4 +1,4 @@
-# Enter your code here. Read input from STDIN. Print output to 
+ 
 
 import numpy as np
 from sklearn.linear_model import LinearRegression
